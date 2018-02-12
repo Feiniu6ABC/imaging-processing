@@ -1,0 +1,1 @@
+convert color bmp file to grayscale color
